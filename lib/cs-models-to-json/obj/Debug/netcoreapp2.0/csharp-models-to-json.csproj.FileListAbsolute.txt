@@ -1,0 +1,10 @@
+C:\Users\s.rahimi\Source\Repos\filerplus2\src\Rbc.FilerPlus.Web.UI\filerplus-client\node_modules\csharp-models-to-typescript\lib\csharp-models-to-json\bin\Debug\netcoreapp2.0\csharp-models-to-json.deps.json
+C:\Users\s.rahimi\Source\Repos\filerplus2\src\Rbc.FilerPlus.Web.UI\filerplus-client\node_modules\csharp-models-to-typescript\lib\csharp-models-to-json\bin\Debug\netcoreapp2.0\csharp-models-to-json.runtimeconfig.json
+C:\Users\s.rahimi\Source\Repos\filerplus2\src\Rbc.FilerPlus.Web.UI\filerplus-client\node_modules\csharp-models-to-typescript\lib\csharp-models-to-json\bin\Debug\netcoreapp2.0\csharp-models-to-json.runtimeconfig.dev.json
+C:\Users\s.rahimi\Source\Repos\filerplus2\src\Rbc.FilerPlus.Web.UI\filerplus-client\node_modules\csharp-models-to-typescript\lib\csharp-models-to-json\bin\Debug\netcoreapp2.0\csharp-models-to-json.dll
+C:\Users\s.rahimi\Source\Repos\filerplus2\src\Rbc.FilerPlus.Web.UI\filerplus-client\node_modules\csharp-models-to-typescript\lib\csharp-models-to-json\bin\Debug\netcoreapp2.0\csharp-models-to-json.pdb
+C:\Users\s.rahimi\Source\Repos\filerplus2\src\Rbc.FilerPlus.Web.UI\filerplus-client\node_modules\csharp-models-to-typescript\lib\csharp-models-to-json\obj\Debug\netcoreapp2.0\csharp-models-to-json.csprojAssemblyReference.cache
+C:\Users\s.rahimi\Source\Repos\filerplus2\src\Rbc.FilerPlus.Web.UI\filerplus-client\node_modules\csharp-models-to-typescript\lib\csharp-models-to-json\obj\Debug\netcoreapp2.0\csharp-models-to-json.AssemblyInfoInputs.cache
+C:\Users\s.rahimi\Source\Repos\filerplus2\src\Rbc.FilerPlus.Web.UI\filerplus-client\node_modules\csharp-models-to-typescript\lib\csharp-models-to-json\obj\Debug\netcoreapp2.0\csharp-models-to-json.AssemblyInfo.cs
+C:\Users\s.rahimi\Source\Repos\filerplus2\src\Rbc.FilerPlus.Web.UI\filerplus-client\node_modules\csharp-models-to-typescript\lib\csharp-models-to-json\obj\Debug\netcoreapp2.0\csharp-models-to-json.dll
+C:\Users\s.rahimi\Source\Repos\filerplus2\src\Rbc.FilerPlus.Web.UI\filerplus-client\node_modules\csharp-models-to-typescript\lib\csharp-models-to-json\obj\Debug\netcoreapp2.0\csharp-models-to-json.pdb

@@ -11,7 +11,7 @@ const configArg = process.argv.find(x => x.startsWith('--config='));
 
 if (!configArg) {
     return console.error(
-        'No configuration file for `csharp-models-to-typescript` provided.'
+        'No configuration file for `cs-models-to-json` provided.'
     );
 }
 
@@ -32,7 +32,6 @@ try {
     );
 }
 
-const output = config.output || 'types.d.ts';
 
 const converter = createConverter({
     customTypeTranslations: config.customTypeTranslations || {},
@@ -46,7 +45,7 @@ const converter = createConverter({
 
 let timer = process.hrtime();
 
-const dotnetProject = path.join(__dirname, 'lib/csharp-models-to-json');
+const dotnetProject = path.join(__dirname, 'lib/cs-models-to-json');
 const dotnetProcess = spawn(
     'dotnet',
     ['run', `--project "${dotnetProject}"`, `"${path.resolve(configPath)}"`],
@@ -71,7 +70,7 @@ dotnetProcess.stdout.on('end', () => {
     } catch (error) {
         return console.error(
             [
-                'The output from `csharp-models-to-json` contains invalid JSON.',
+                'The output from `cs-models-to-json` contains invalid JSON.',
                 error.message,
                 stdout,
             ].join('\n\n')

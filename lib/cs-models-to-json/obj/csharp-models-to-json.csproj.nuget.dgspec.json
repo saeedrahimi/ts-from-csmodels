@@ -1,0 +1,92 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\s.rahimi\\Source\\Repos\\filerplus2\\src\\Rbc.FilerPlus.Web.UI\\filerplus-client\\node_modules\\csharp-models-to-typescript\\lib\\csharp-models-to-json\\csharp-models-to-json.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\s.rahimi\\Source\\Repos\\filerplus2\\src\\Rbc.FilerPlus.Web.UI\\filerplus-client\\node_modules\\csharp-models-to-typescript\\lib\\csharp-models-to-json\\csharp-models-to-json.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\s.rahimi\\Source\\Repos\\filerplus2\\src\\Rbc.FilerPlus.Web.UI\\filerplus-client\\node_modules\\csharp-models-to-typescript\\lib\\csharp-models-to-json\\csharp-models-to-json.csproj",
+        "projectName": "csharp-models-to-json",
+        "projectPath": "C:\\Users\\s.rahimi\\Source\\Repos\\filerplus2\\src\\Rbc.FilerPlus.Web.UI\\filerplus-client\\node_modules\\csharp-models-to-typescript\\lib\\csharp-models-to-json\\csharp-models-to-json.csproj",
+        "packagesPath": "C:\\Users\\s.rahimi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\s.rahimi\\Source\\Repos\\filerplus2\\src\\Rbc.FilerPlus.Web.UI\\filerplus-client\\node_modules\\csharp-models-to-typescript\\lib\\csharp-models-to-json\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\s.rahimi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Glob.cs": {
+              "target": "Package",
+              "version": "[2.0.13, )"
+            },
+            "Microsoft.CodeAnalysis": {
+              "target": "Package",
+              "version": "[2.6.1, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100-preview9-014004\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

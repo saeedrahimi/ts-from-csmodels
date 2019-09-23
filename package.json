@@ -1,6 +1,6 @@
 {
   "name": "ts-from-csmodels",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "title": "Generates typescript declarations from C# models",
   "author": "Saeed Rahimi <saeedr.com@gmail.com>",
   "license": "MIT",
