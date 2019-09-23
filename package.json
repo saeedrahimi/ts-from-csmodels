@@ -1,12 +1,12 @@
 {
-  "name": "csmodel-to-ts",
+  "name": "ts-from-csmodels",
   "version": "0.1.0",
   "title": "Generates typescript declarations from C# models",
   "author": "Saeed Rahimi <saeedr.com@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/saeedrahimi/csmodel-to-ts.git"
+    "url": "https://github.com/saeedrahimi/ts-from-csmodels.git"
   },
   "engines": {
     "node": ">=6.0.0"

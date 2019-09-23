@@ -1,4 +1,4 @@
-# C# models to TypeScript
+# Generate Typescript form C# models
 
 This is a tool that consumes your C# domain models and types and creates TypeScript declaration files from them. There's other tools that does this but what makes this one different is that it internally uses [Roslyn (the .NET compiler platform)](https://github.com/dotnet/roslyn) to parse the source files, which removes the need to create and maintain our own parser.
 
@@ -14,7 +14,7 @@ This is a tool that consumes your C# domain models and types and creates TypeScr
 ## Install
 
 ```
-$ npm install --save csmodel-to-ts
+$ npm install --save ts-from-csmodels
 ```
 
 ## How to use
@@ -49,7 +49,7 @@ $ npm install --save csmodel-to-ts
 
 ```
 "scripts": {
-    "generate-types": "csmodel-to-ts --config=your-config-file.json"
+    "generate-types": "ts-from-csmodels --config=your-config-file.json"
 },
 ```
 
@@ -60,5 +60,5 @@ $ npm install --save csmodel-to-ts
 
 MIT © [Saeed Rahimi](https://github.com/saeedrahimi)
 
-[npm-image]: https://img.shields.io/npm/v/csmodel-to-ts.svg
-[npm-url]: https://npmjs.org/package/csmodel-to-ts
+[npm-image]: https://img.shields.io/npm/v/ts-from-csmodels.svg
+[npm-url]: https://npmjs.org/package/ts-from-csmodels
