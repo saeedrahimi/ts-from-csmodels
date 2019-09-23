@@ -1,0 +1,18 @@
+{
+  "include": {
+
+    "./dtos/": [ "./models/**/*.cs" ],
+
+    "./enums/": [ "./enums/**/*.cs" ]
+
+
+  },
+  "camelCase": false,
+  "camelCaseEnums": false,
+  "numericEnums": false,
+  "stringLiteralTypesInsteadOfEnums": false,
+  "customTypeTranslations": {
+    "ProductName": "string",
+    "ProductNumber": "string"
+  }
+}

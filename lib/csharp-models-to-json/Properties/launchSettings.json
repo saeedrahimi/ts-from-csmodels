@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "csharp-models-to-json": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\s.rahimi\\Source\\Repos\\filerplus2\\src\\Rbc.FilerPlus.Web.UI\\filerplus-client\\node_modules\\csharp-models-to-typescript\\lib\\csharp-models-to-json\\config.json\""
+    }
+  }
+}
