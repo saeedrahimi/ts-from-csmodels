@@ -1,6 +1,6 @@
 {
   "name": "ts-from-csmodels",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "title": "Generates typescript declarations from C# models",
   "author": "Saeed Rahimi <saeedr.com@gmail.com>",
   "license": "MIT",
@@ -12,6 +12,6 @@
     "node": ">=6.0.0"
   },
   "bin": {
-    "csmodel-to-ts": "./index.js"
+    "ts-from-csmodels": "./index.js"
   }
 }
